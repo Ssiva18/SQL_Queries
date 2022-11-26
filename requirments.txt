@@ -1,0 +1,8 @@
+pandas
+numpy
+fastapi
+uvicorn
+pydantic
+pickles
+scikit-learnrequests
+pypi-json
